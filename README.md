@@ -21,8 +21,8 @@ Descarga la última versión en [**Releases**](https://github.com/Creampy-bit/ro
   ```
 
 ### Linux
-- **Universal (cualquier distro):** descarga **`R-UI-EDITOR-<versión>-linux-x64.AppImage`**, dale permisos de ejecución (`chmod +x R-UI-EDITOR-*.AppImage`) y ejecútalo. Incluye actualizaciones automáticas.
-- **Ubuntu / Debian / Mint / Pop!_OS:** descarga **`R-UI-EDITOR-<versión>-linux-x64.deb`** e instálalo con:
+- **Universal (cualquier distro):** descarga **`R-UI-EDITOR-<versión>-linux-x86_64.AppImage`**, dale permisos de ejecución (`chmod +x R-UI-EDITOR-*.AppImage`) y ejecútalo. Incluye actualizaciones automáticas.
+- **Ubuntu / Debian / Mint / Pop!_OS:** descarga **`R-UI-EDITOR-<versión>-linux-amd64.deb`** e instálalo con:
   ```bash
   sudo apt install ./R-UI-EDITOR-*.deb
   ```
